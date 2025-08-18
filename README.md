@@ -30,7 +30,6 @@
 
 * 🏆 **Meta Hacker Cup 2024** – Global Rank **3669** (Practice) & **7730** (Round 1)
 * 🥈 **Top 100** out of 800+ candidates – MRIIRS CDC Utsav (Nov ’24)
-* 🥉 **Top 10** in college coding competition – MRSDC MRIIRS (Mar ’25)
 
 ---
 
