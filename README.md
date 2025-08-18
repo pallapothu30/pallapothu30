@@ -38,7 +38,6 @@
 ## 🌐 Connect with Me
 
 * [LinkedIn](https://linkedin.com/in/manikantap969)
-* [GitHub](https://github.com/pallapothu30)
 * [LeetCode](https://leetcode.com/u/manikanta_30/)
 * [HackerRank](https://www.hackerrank.com/profile/pallapothum784)
 * 📧 **[pallapothum784@gmail.com](mailto:pallapothum784@gmail.com)**
