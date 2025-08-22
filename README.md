@@ -1,49 +1,81 @@
+# 👋 Hi, I'm Manikanta
 
-# 👋 Hi, I'm Manikanta!
+**B.Tech CSE (AI & ML)** @ Manav Rachna International Institute of Research and Studies (2022–2026)
 
-🎓 **B.Tech CSE (AI & ML)** @ Manav Rachna International Institute of Research and Studies (2022–2026)
-💻 **Full Stack Developer | NLP Enthusiast | Problem Solver**
-📍 Vijayawada, Andhra Pradesh, India
+**Full Stack Developer · NLP Enthusiast · Problem Solver**
+
+<p align="left">
+  <a href="mailto:pallapothum784@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-pallapothum784%40gmail.com-red?logo=gmail"></a>
+  <a href="https://www.linkedin.com/in/manikantap969"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-manikantap969-blue?logo=linkedin"></a>
+  <a href="https://github.com/pallapothu30"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-pallapothu30-black?logo=github"></a>
+  <a href="https://leetcode.com/u/manikanta_30/"><img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-manikanta__30-black?logo=leetcode"></a>
+  <a href="https://www.hackerrank.com/profile/pallapothum784"><img alt="HackerRank" src="https://img.shields.io/badge/HackerRank-pallapothum784-brightgreen?logo=hackerrank"></a>
+</p>
 
 ---
 
 ## 🚀 About Me
 
-* 🌱 Currently exploring **AI, ML, and Full Stack Development**
-* 🔭 I’ve built projects ranging from **event platforms** to **RAG-based intelligent bots**
-* 🏆 Solved **500+ DSA problems** on LeetCode and other platforms
-* 🥇 Ranked **Top 15% worldwide** in LeetCode contests (Max Rating: 1687)
-* ⚡ Passionate about **building scalable applications** and **learning new technologies**
+- 🌱 Currently exploring **AI, NLP, and Full-Stack Development**
+- 🔭 Built full-stack web apps with the **MERN** stack and exploring springboot. Proficient in developing backedn.
+- 🏆 Solved **500+ DSA problems** on LeetCode and other platforms
+- 🥇 Ranked **Top 15% worldwide** in LeetCode contests (Max Rating: **1687**)
+- ⚡ Passionate about ** ** and **learning new tech**
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages:** C++, Python, Java, SQL, HTML, CSS
-**Frameworks & Libraries:** ReactJS, NodeJS, ExpressJS, Spring Boot, TailwindCSS, NumPy
-**Databases:** MongoDB, Firestore, MySQL, PostgreSQL
-**Tools:** Git, GitHub, Firebase, Postman, VS Code
+**Languages:** C++, Python, JavaScript, SQL, HTML, CSS  
+**Frameworks & Libraries:** React, Node.js, Express, Spring Boot, TailwindCSS, NumPy, LangChain  
+**Databases:** MongoDB, Firestore, MySQL, PostgreSQL  
+**Tools:** Git, GitHub, Firebase, Postman
+
+<p align="left">
+  <img src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black" />
+</p>
 
 ---
 
-## 🔥 Achievements
+## 💼 Experience
 
-* 🏆 **Meta Hacker Cup 2024** – Global Rank **3669** (Practice) & **7730** (Round 1)
-* 🥈 **Top 100** out of 800+ candidates – MRIIRS CDC Utsav (Nov ’24)
+**Full Stack Developer Intern — GRAMBASKET**  
+*June 2025 – August 2025 · Remote*
 
-
----
-
-
-## 🌐 Connect with Me
-
-* [LinkedIn](https://linkedin.com/in/manikantap969)
-* [LeetCode](https://leetcode.com/u/manikanta_30/)
-* [HackerRank](https://www.hackerrank.com/profile/pallapothum784)
-* 📧 **[pallapothum784@gmail.com](mailto:pallapothum784@gmail.com)**
+- Built core features for a tech-powered rural & hyperlocal commerce platform.  
+- Developed an **Employee Management Portal** with role-based dashboards.  
+- Shipped React components: seller onboarding form, profile page, support/FAQ.  
+- **Stack:** React, Tailwind, Firebase (Auth, Firestore), Git.
 
 ---
 
-✨ *“Code, Learn, Build, Repeat.”*
+## 🏆 Achievements
+
+- **Meta Hacker Cup 2024:** Global Ranks **3669** (Practice) & **7730** (Round 1)  
+- **LeetCode:** **Top 15% worldwide**, Max Rating **1687**  
+- **MRIIRS CDC Utsav (Nov ’24):** **Top 100** out of 800+ candidates  
 
 ---
+
+## 📫 Reach Me
+
+- 📧 Email: **pallapothum784@gmail.com**  
+- 🔗 LinkedIn: [manikantap969](https://linkedin.com/in/manikantap969)  
+- 🐙 GitHub: [pallapothu30](https://github.com/pallapothu30)  
+- 🧩 LeetCode: [manikanta_30](https://leetcode.com/u/manikanta_30/)  
+- ✅ HackerRank: [pallapothum784](https://www.hackerrank.com/profile/pallapothum784)
+
+---
+
+### ✨ Motto
+
