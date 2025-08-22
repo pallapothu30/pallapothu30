@@ -16,11 +16,12 @@
 
 ## 🚀 About Me
 
-- 🌱 Currently exploring **AI, NLP, and Full-Stack Development**
-- 🔭 Built full-stack web apps with the **MERN** stack and exploring springboot. Proficient in developing backedn.
-- 🏆 Solved **500+ DSA problems** on LeetCode and other platforms
-- 🥇 Ranked **Top 15% worldwide** in LeetCode contests (Max Rating: **1687**)
-- ⚡ Passionate about ** ** and **learning new tech**
+- 🎓 Final-year **CSE (AI & ML)** student (Batch 2026) with strong problem-solving skills in **Data Structures & Algorithms** (500+ problems solved, 30+ contests, LeetCode rating **1680+**).  
+- 💻 **Full Stack Developer Intern @ GramBasket** – contributing to the company’s e-commerce platform.  
+- 🔭 Built multiple full-stack apps using the **MERN stack**, with stronger proficiency in **backend development**. Currently exploring **Spring Boot, Next.js, and AWS** to expand cloud and backend expertise.  
+- 🧠 Enthusiastic about **NLP applications** (RAG chatbots), **Android development**, and **open-source contributions**.  
+- ⚡ Passionate about **scalable software engineering**, continuous learning, and applying AI to solve real-world problems.  
+
 
 ---
 
@@ -52,10 +53,8 @@
 **Full Stack Developer Intern — GRAMBASKET**  
 *June 2025 – August 2025 · Remote*
 
-- Built core features for a tech-powered rural & hyperlocal commerce platform.  
-- Developed an **Employee Management Portal** with role-based dashboards.  
-- Shipped React components: seller onboarding form, profile page, support/FAQ.  
-- **Stack:** React, Tailwind, Firebase (Auth, Firestore), Git.
+- Contributed to development of their ecommerce platform
+- **Tech Stack:** React, Tailwind, Firebase (Auth, Firestore), Git.
 
 ---
 
