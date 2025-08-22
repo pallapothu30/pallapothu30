@@ -17,10 +17,8 @@
 ## 🚀 About Me
 
 - 🎓 Final-year **CSE (AI & ML)** student (Batch 2026) with strong problem-solving skills in **Data Structures & Algorithms** (500+ problems solved, 30+ contests, LeetCode rating **1680+**).  
-- 💻 **Full Stack Developer Intern @ GramBasket** – contributing to the company’s e-commerce platform.  
 - 🔭 Built multiple full-stack apps using the **MERN stack**, with stronger proficiency in **backend development**. Currently exploring **Spring Boot, Next.js, and AWS** to expand cloud and backend expertise.  
 - 🧠 Enthusiastic about **NLP applications** (RAG chatbots), **Android development**, and **open-source contributions**.  
-- ⚡ Passionate about **scalable software engineering**, continuous learning, and applying AI to solve real-world problems.  
 
 
 ---
