@@ -51,7 +51,7 @@
 **Full Stack Developer Intern — GRAMBASKET**  
 *June 2025 – August 2025 · Remote*
 
-- Contributed to development of their ecommerce platform
+- Contributed to development of ecommerce platform
 - **Tech Stack:** React, Tailwind, Firebase (Auth, Firestore), Git.
 
 ---
