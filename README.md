@@ -46,33 +46,11 @@
 
 ---
 
-## 💼 Experience
 
-**Full Stack Developer Intern — GRAMBASKET**  
-*June 2025 – August 2025 · Remote*
-
-- Contributed to development of ecommerce platform
-- **Tech Stack:** React, Tailwind, Firebase (Auth, Firestore), Git.
-
----
-
-## 🏆 Achievements
-
-- **Meta Hacker Cup 2024:** Global Ranks **3669** (Practice) & **7730** (Round 1)  
-- **LeetCode:** **Top 15% worldwide**, Max Rating **1687**  
-- **MRIIRS CDC Utsav (Nov ’24):** **Top 100** out of 800+ candidates  
-
----
-
-## 📫 Reach Me
+## 📫 Contact
 
 - 📧 Email: **pallapothum784@gmail.com**  
-- 🔗 LinkedIn: [manikantap969](https://linkedin.com/in/manikantap969)  
-- 🐙 GitHub: [pallapothu30](https://github.com/pallapothu30)  
-- 🧩 LeetCode: [manikanta_30](https://leetcode.com/u/manikanta_30/)  
-- ✅ HackerRank: [pallapothum784](https://www.hackerrank.com/profile/pallapothum784)
+- 🔗 LinkedIn: [manikantap969](https://linkedin.com/in/manikantap969)
 
 ---
-
-
 
