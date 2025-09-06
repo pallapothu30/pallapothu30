@@ -1,3 +1,4 @@
+![visitors](https://komarev.com/ghpvc/?username=pallapothu30&label=Profile%20views&color=0e75b6&style=flat)
 # 👋 Hi, I'm Manikanta
 
 **B.Tech CSE (AI & ML)** @ Manav Rachna International Institute of Research and Studies (2022–2026)
