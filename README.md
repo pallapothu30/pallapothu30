@@ -25,7 +25,7 @@
 
 ## 🛠️ Tech Stack
 
-**Languages:** C++, Python, JavaScript, SQL, HTML, CSS  
+**Languages:** C++, Python, Java, SQL, HTML 
 **Frameworks & Libraries:** React, Node.js, Express, TailwindCSS, NumPy, LangChain  
 **Databases:** MongoDB, Firestore, MySQL  
 **Tools:** Git, GitHub, Firebase, Postman
