@@ -1,4 +1,4 @@
-![visitors](https://komarev.com/ghpvc/?username=pallapothu30&label=Profile%20views&color=0e75b6&style=flat)
+
 # 👋 Hi, I'm Manikanta
 
 **B.Tech CSE (AI & ML)** @ Manav Rachna International Institute of Research and Studies (2022–2026)
@@ -16,7 +16,7 @@
 
 ## 🚀 About Me
 
-- 🎓 Final-year **CSE (AI & ML)** student (Batch 2026) with strong problem-solving skills in **Data Structures & Algorithms** (600+ problems solved, 30+ contests, LeetCode rating **1680+**).  
+- 🎓 Final-year **CSE (AI & ML)** student (Batch 2026) with strong problem-solving skills in **Data Structures & Algorithms** (600+ problems solved, 30+ contests, LeetCode rating **1730+**).  
 - 🔭 Built multiple full-stack apps using the **MERN stack**, with stronger proficiency in **backend development**. Currently exploring **Spring Boot, Next.js, and AWS** to expand cloud and backend expertise.  
 - 🧠 Enthusiastic about **NLP applications**, **Android development**, and **open-source contributions**.  
 
