@@ -1,5 +1,5 @@
 
-# 👋 Hi, I'm Manikanta
+#  Hi, I'm Manikanta
 
 **B.Tech CSE (AI & ML)** @ Manav Rachna International Institute of Research and Studies (2022–2026)
 
@@ -7,7 +7,7 @@
 
 <p align="left">
   <a href="mailto:pallapothum784@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-pallapothum784%40gmail.com-red?logo=gmail"></a>
-  <a href="https://www.linkedin.com/in/mani969"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-manikantap969-blue?logo=linkedin"></a>
+  <a href="https://www.linkedin.com/in/mani969"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-mani969-blue?logo=linkedin"></a>
   <a href="https://leetcode.com/u/manikanta_30/"><img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-manikanta__30-black?logo=leetcode"></a>
   <a href="https://www.hackerrank.com/profile/pallapothum784"><img alt="HackerRank" src="https://img.shields.io/badge/HackerRank-pallapothum784-brightgreen?logo=hackerrank"></a>
 </p>
@@ -28,7 +28,7 @@
 **Languages:**  Java, TypeScript, Python, C++, SQL  
 **Frameworks & Libraries:** NodeJS, Express, Spring Boot, React, LangChain, TailwindCSS  
 **Databases:** MySQL, MongoDB, Firestore  
-**Tools:** Git, GitHub, Firebase, Postman  
+**Tools:** Git/GitHub, Firebase, Postman  
 
 <p align="left">
   <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white" />
@@ -51,7 +51,7 @@
 ## 📫 Contact
 
 - 📧 Email: **pallapothum784@gmail.com**  
-- 🔗 LinkedIn: [manikantap969](https://linkedin.com/in/manikantap969)
+- 🔗 LinkedIn: [mani969](https://linkedin.com/in/mani969)
 
 ---
 
