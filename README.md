@@ -1,9 +1,11 @@
 
+<img width="2000" height="400" alt="banner" src="https://github.com/user-attachments/assets/dd5a27b4-1dea-4f8c-8edc-613e1f3c077b" />
+
 #  Hi, I'm Manikanta
 
 **B.Tech CSE (AI & ML)** @ Manav Rachna International Institute of Research and Studies (2022–2026)
 
-**Full Stack Developer · NLP Enthusiast · Problem Solver**
+**Software Engineer · NLP Enthusiast · Problem Solver**
 
 <p align="left">
   <a href="mailto:pallapothum784@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-pallapothum784%40gmail.com-red?logo=gmail"></a>
@@ -16,37 +18,12 @@
 
 ## 🚀 About Me
 
-- 🎓 Final-year **CSE (AI & ML)** student (Batch 2026) with strong problem-solving skills in **Data Structures & Algorithms** (600+ problems solved, 35+ contests, LeetCode rating **1730+**).  
-- 🔭 Built multiple full-stack apps using the **MERN stack**, with stronger proficiency in **backend development**. Currently exploring **Spring Boot, Next.js, and AWS** to expand cloud and backend expertise.  
-- 🧠 Enthusiastic about **NLP applications**, **Android development**, and **open-source contributions**.  
+-  I'm a final year CS student. I try to explore new things for no reason . Just curious.
+-  I have interest open source , NLP, mobile app development. 
+-  I believe veryday is new chance to explore, learn, grow ..
 
 
----
-
-## 🛠️ Tech Stack
-
-**Languages:**  Java, TypeScript, Python, C++, SQL  
-**Frameworks & Libraries:** NodeJS, Express, Spring Boot, React, LangChain, TailwindCSS  
-**Databases:** MySQL, MongoDB, Firestore  
-**Tools:** Git/GitHub, Firebase, Postman  
-
-<!-- <p align="left">
-  <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=white" />
-  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black" />
-</p>
-
-
---- -->
-
+--- 
 
 ## 📫 Contact
 
