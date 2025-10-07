@@ -16,7 +16,7 @@
 
 ## 🚀 About Me
 
-- 🎓 Final-year **CSE (AI & ML)** student (Batch 2026) with strong problem-solving skills in **Data Structures & Algorithms** (600+ problems solved, 30+ contests, LeetCode rating **1730+**).  
+- 🎓 Final-year **CSE (AI & ML)** student (Batch 2026) with strong problem-solving skills in **Data Structures & Algorithms** (600+ problems solved, 35+ contests, LeetCode rating **1730+**).  
 - 🔭 Built multiple full-stack apps using the **MERN stack**, with stronger proficiency in **backend development**. Currently exploring **Spring Boot, Next.js, and AWS** to expand cloud and backend expertise.  
 - 🧠 Enthusiastic about **NLP applications**, **Android development**, and **open-source contributions**.  
 
@@ -30,7 +30,7 @@
 **Databases:** MySQL, MongoDB, Firestore  
 **Tools:** Git/GitHub, Firebase, Postman  
 
-<p align="left">
+<!-- <p align="left">
   <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" />
@@ -45,7 +45,7 @@
 </p>
 
 
----
+--- -->
 
 
 ## 📫 Contact
