@@ -14,21 +14,5 @@
   <a href="https://www.hackerrank.com/profile/pallapothum784"><img alt="HackerRank" src="https://img.shields.io/badge/HackerRank-pallapothum784-brightgreen?logo=hackerrank"></a>
 </p>
 
----
 
-## 🚀 About Me
-
--  I'm a final year CS student. I try to explore new things for no reason . Just curious.
--  I have interest open source , NLP, mobile app development. 
--  I believe veryday is new chance to explore, learn, grow ..
-
-
---- 
-
-## 📫 Contact
-
-- 📧 Email: **pallapothum784@gmail.com**  
-- 🔗 LinkedIn: [mani969](https://linkedin.com/in/mani969)
-
----
 
