@@ -5,7 +5,7 @@
 
 **B.Tech CSE (AI & ML)** @ Manav Rachna International Institute of Research and Studies (2022–2026)
 
-**Software Engineer · Machine Learning · Problem Solver**
+**Software Engineering ·  · Problem Solver**
 
 <p align="left">
   <a href="mailto:pallapothum784@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-pallapothum784%40gmail.com-red?logo=gmail"></a>
